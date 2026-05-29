@@ -1,6 +1,9 @@
 # SKN_study_team4
 4조 git 스터디 과제
 
+## 📣 주제
+웹개발 프로젝트 협업
+
 ## 👥 팀원
 
 | 이름 | git Name |
